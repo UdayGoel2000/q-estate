@@ -15,6 +15,19 @@
         "property_name": "Hamill-Quigley"
       },
       {
+        "property_id": 102,
+        "property_type": "condo",
+        "address": "9 Longview Street",
+        "city": "Amper",
+        "postal_code": null,
+        "price": 417131.89,
+        "square_footage": 3404,
+        "year_built": 1952,
+        "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+        "listing_date": "8/11/2022",
+        "property_name": "Hamill-Quigley"
+      },
+      {
         "property_id": 2,
         "property_type": "apartment",
         "address": "6 Autumn Leaf Avenue",
@@ -106,6 +119,19 @@
         "property_name": "Bosco Group"
       },
       {
+        "property_id": 108,
+        "property_type": "house",
+        "address": "83609 Sheridan Park",
+        "city": "Świnna",
+        "postal_code": "34-331",
+        "price": 358663.88,
+        "square_footage": 1312,
+        "year_built": 1978,
+        "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "listing_date": "11/26/2022",
+        "property_name": "Bosco Group"
+      },
+      {
         "property_id": 9,
         "property_type": "house",
         "address": "86 Sage Alley",
@@ -143,6 +169,19 @@
         "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
         "listing_date": "3/3/2022",
         "property_name": "Grant, Powlowski and Wunsch"
+      },
+      {
+        "property_id": 12,
+        "property_type": "house",
+        "address": "105 Montana Trail",
+        "city": "Hanji",
+        "postal_code": null,
+        "price": 264889.4,
+        "square_footage": 1350,
+        "year_built": 2018,
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "listing_date": "4/3/2022",
+        "property_name": "Aufderhar, Schoen and Lowe"
       },
       {
         "property_id": 12,
