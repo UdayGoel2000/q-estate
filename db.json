@@ -184,6 +184,32 @@
         "property_name": "Aufderhar, Schoen and Lowe"
       },
       {
+        "property_id": 110,
+        "property_type": "house",
+        "address": "Lorem Ipsum",
+        "city": "Hanji",
+        "postal_code": null,
+        "price": 664889.4,
+        "square_footage": 1350,
+        "year_built": 2018,
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "listing_date": "4/3/2022",
+        "property_name": "Schoen and Lowe"
+      },
+      {
+        "property_id": 115,
+        "property_type": "house",
+        "address": "Etiam vel augue.",
+        "city": "Hanji",
+        "postal_code": null,
+        "price": 364889.4,
+        "square_footage": 1350,
+        "year_built": 2018,
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "listing_date": "4/3/2022",
+        "property_name": "Lowe"
+      },
+      {
         "property_id": 12,
         "property_type": "house",
         "address": "105 Montana Trail",
